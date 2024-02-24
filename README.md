@@ -1,7 +1,7 @@
 
 # Video and Subtitltes names matcher
 
-<img src="https://imgur.com/6CiIHhT" alt="Screenshot of the app main window">
+![Imgur Image](https://imgur.com/6CiIHhT.jpg)
 
 > A Python application designed to streamline the process of matching subtitles to video files. 
 
