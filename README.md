@@ -1,5 +1,5 @@
 
-# Video and Subtitltes names matcher
+# Video and Subtitles names matcher
 
 ![Imgur Image](https://imgur.com/6CiIHhT.jpg)
 
